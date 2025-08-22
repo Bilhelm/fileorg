@@ -4,7 +4,6 @@ File Organizer - Automatically organize files by type
 Author: William Cloutman
 """
 
-import os
 import shutil
 from pathlib import Path
 import logging
