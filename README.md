@@ -97,6 +97,16 @@ Pull requests welcome! Please add tests for new features.
 
 MIT License - feel free to use this in your own projects!
 
+## Support This Project ⚡
+
+This tool is developed and maintained by an individual developer. If you find it useful, consider supporting its development with a small Lightning donation:
+
+**⚡ Lightning Address:** `billhelm@strike.me`
+
+Your contributions help offset development costs (including AI tooling subscriptions) and ensure continued improvements. Donors receive priority support for issues and feature requests.
+
+*Donations are completely optional and do not affect the open-source nature of this project.*
+
 ## Author
 
 William Cloutman (wcloutman@hotmail.com)
