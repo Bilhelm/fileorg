@@ -10,7 +10,7 @@ echo "📦 Installing File Organizer (Secure Version)..."
 # Configuration
 REPO="Bilhelm/fileorg"
 FILE="file_organizer.py"
-EXPECTED_CHECKSUM="f3df860539c90f3ccd6818c0bd8cc12a9e29df2cb3b00ac070c3dd70eb58b2c9"
+EXPECTED_CHECKSUM="b3ac5e611c176ecc13de3f31c865fd029d95fcdb1a9bca828450b6586e49bf60"
 INSTALL_DIR="$HOME/bin"
 TEMP_FILE="/tmp/${FILE}.tmp"
 

@@ -1,6 +1,13 @@
 # File Organizer 🗂️
 
-A Python utility to automatically organize files by type into categorized folders.
+[![CI/CD Pipeline](https://github.com/Bilhelm/fileorg/workflows/CI/CD%20Pipeline/badge.svg)](https://github.com/Bilhelm/fileorg/actions)
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![GPG Signed](https://img.shields.io/badge/GPG-Signed-green)](SECURITY.md)
+[![Code Style](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://github.com/astral-sh/ruff)
+[![Security](https://img.shields.io/badge/security-bandit-yellow)](https://github.com/PyCQA/bandit)
+
+A robust Python utility to automatically organize files by type into categorized folders with enterprise-grade error handling and security features.
 
 ## Features
 
