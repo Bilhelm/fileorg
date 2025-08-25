@@ -68,7 +68,7 @@ class FileOrganizer:
     
     def setup_logging(self):
         """Set up logging for the organizer."""
-        log_dir = Path.home() / "Documents" / "fileorg_logs"
+        log_dir = Path(__file__).parent / "fileorg_logs"
         log_dir.mkdir(exist_ok=True, mode=0o700)  # Secure permissions for log directory
         
         logging.basicConfig(

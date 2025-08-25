@@ -185,7 +185,7 @@ class TestSecurityAndEdgeCases(unittest.TestCase):
     
     def test_log_directory_security(self):
         """Test that log directory has secure permissions."""
-        log_dir = Path.home() / "Documents" / "fileorg_logs"
+        log_dir = Path(__file__).parent / "fileorg_logs"
         
         # If log directory exists, check its permissions
         if log_dir.exists():
