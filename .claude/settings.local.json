@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(exa:*)",
+      "Bash(semgrep:*)",
+      "Bash(python -m pytest test_fileorg.py test_integration.py -v)",
+      "Bash(python3 -m pytest test_fileorg.py test_integration.py -v)",
+      "Bash(python3:*)",
+      "Bash(ruff check:*)"
+    ],
+    "deny": [],
+    "ask": [],
+    "additionalDirectories": [
+      "/home/william-cloutman/.config/claude",
+      "/home/william-cloutman/Vibes"
+    ]
+  }
+}
